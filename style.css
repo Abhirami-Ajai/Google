@@ -1,0 +1,102 @@
+.img-container {
+	padding-top:17px;
+	text-align:center
+}
+.nav {
+	text-align:right
+}
+.nav a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-decoration:none;
+	color:black;
+}
+.nav a:hover {
+	text-decoration:underline;
+}
+.label {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	text-align:center
+}
+.search {
+	text-align:center
+}
+.button {
+	text-align:center
+}
+.nav-bottom {
+	border:1px solid #dcdcdc;
+	position: fixed;
+  	bottom: 0;
+  	width: 100%;
+	
+}
+.nav-bottom a {
+	text-decoration:none;
+	color:black;
+  	float: left;
+  	padding: 14px 16px;
+  	font-size: 17px;
+}
+.nav-bottom a:hover {
+	text-decoration:underline;
+}
+.nav-right {
+	position: fixed;
+  	bottom: 0;
+  	width: 100%;
+}
+.nav-right a {
+	text-decoration:none;
+	color:black;
+  	float: right;
+  	text-align: center;
+  	padding: 14px 16px;
+  	font-size: 17px;
+}
+.nav-right a:hover {
+	text-decoration:underline;
+}
+.bar {
+  	margin:0 auto;
+  	width:600px;
+  	border-radius:50px;
+  	border:1px solid #dcdcdc;
+}
+.bar:hover {
+  	box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+.bar:focus-within {
+  	box-shadow: 1px 1px 8px 1px #dcdcdc;
+  	outline:none;
+}
+.searchbar {
+  	height:45px;
+  	border:none;
+  	width:500px;
+  	font-size:16px;
+  	outline: none;
+  
+}
+.voice {
+  	height:20px;
+  	position:relative;
+  	top:5px;
+  	left:10px;
+}
+.lens {
+  	height:25px;
+  	position:relative;
+  	top:5px;
+  	left:10px;
+	width:25px;
+
+}
+.end {
+	left:10px;
+	position:fixed;
+	bottom:60px;
+}
+
+.button {padding: 12px 28px;}
